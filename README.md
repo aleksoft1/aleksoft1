@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleksoft1
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning AI
 - 📫 How to reach me twitter @aleksoft1
