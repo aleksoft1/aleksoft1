@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning ML
 - 📫 How to reach me twitter @aleksoft1
 
 <!---
